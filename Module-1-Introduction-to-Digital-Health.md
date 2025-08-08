@@ -31,3 +31,23 @@ https://www.bestpracticegroup.com/four-lessons-we-can-learn-from-the-care-data-p
 Presser, L. et al. (2015) ‘Care.data and access to UK health records: patient privacy and public trust’, Technology Science. Available at: 
 https://techscience.org/a/2015081103/
  (Accessed: 27 September 2020).
+
+# Estonia’s Digital Health system References 
+
+- Core: 
+
+Taal, H. (2018) ‘Health in the Digital Society: the experience of Estonia’, European Journal of Public Health. Oxford University Press (OUP), 28(suppl_4). doi: 10.1093/eurpub/cky213.014b. Available at: 
+https://academic.oup.com/eurpub/article/28/suppl_4/cky213.014b/5191946
+. 
+
+- Additional: 
+
+Heller, N. (2017) Estonia, the Digital Republic, The New Yorker. Available at: 
+https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic
+. (Accessed: 27 September 2020).
+
+- Further additional: 
+
+Kalvet, T. and Aaviksoo, A. (2008) The Development of eServices in an Enlarged EU: eGovernment and eHealth in Estonia. Available at: 
+https://publications.jrc.ec.europa.eu/repository/bitstream/JRC40679/jrc40679.pdf 
+. (Accessed: 27 September 2020).
