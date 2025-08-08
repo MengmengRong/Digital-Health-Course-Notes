@@ -51,3 +51,7 @@ https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic
 Kalvet, T. and Aaviksoo, A. (2008) The Development of eServices in an Enlarged EU: eGovernment and eHealth in Estonia. Available at: 
 https://publications.jrc.ec.europa.eu/repository/bitstream/JRC40679/jrc40679.pdf 
 . (Accessed: 27 September 2020).
+# The impact of Digital Health on the quality and safety of health care
+- Reference 
+Black, A. D. et al. (2011) ‘The Impact of eHealth on the Quality and Safety of Health Care: A Systematic Overview’, PLoS Medicine. Edited by B. Djulbegovic. Public Library of Science, 8(1), p. e1000387. doi: 10.1371/journal.pmed.1000387. Available at: 
+https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000387
