@@ -55,3 +55,13 @@ https://publications.jrc.ec.europa.eu/repository/bitstream/JRC40679/jrc40679.pdf
 - Reference 
 Black, A. D. et al. (2011) ‘The Impact of eHealth on the Quality and Safety of Health Care: A Systematic Overview’, PLoS Medicine. Edited by B. Djulbegovic. Public Library of Science, 8(1), p. e1000387. doi: 10.1371/journal.pmed.1000387. Available at: 
 https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000387
+
+# Learning Health Systems — An Introduction
+- Reference
+Health Data Research UK (2020) Learning Healthcare Systems. Available at: 
+https://www.hdruk.ac.uk/research/better-care/learning-healthcare-systems/
+. (Accessed: 27 September 2020).
+
+ Learning Healthcare Project (2020) Professor Charles Friedman Interview. Available at: 
+http://www.learninghealthcareproject.org/section/evidence/41/50/professor-charles-friedman-interview
+. (Accessed: 27 September 2020).
