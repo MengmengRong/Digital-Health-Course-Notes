@@ -26,3 +26,8 @@ https://www.hindawi.com/journals/bmri/2015/961526/
 - Additional reading 
  McLachlan, S. et al. (2019) ‘A framework for analysing learning health systems: Are we removing the most impactful barriers?’, Learning Health Systems. John Wiley and Sons Inc., 3(4). doi: 10.1002/lrh2.10189. Available at: 
 https://onlinelibrary.wiley.com/doi/full/10.1002/lrh2.10189
+
+# Examples and illustrations of how Health Systems learn
+- Reference 
+ Khurshid, A. (2017) ‘A tale of two cities: Developing health information platforms for a learning health system in Austin and in New Orleans’, Learning Health Systems. John Wiley and Sons Inc., 1(2), p. e10017. doi: 10.1002/lrh2.10017. Available from: 
+https://onlinelibrary.wiley.com/doi/full/10.1002/lrh2.10017
