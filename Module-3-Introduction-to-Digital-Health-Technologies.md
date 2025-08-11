@@ -11,3 +11,13 @@ http://www.who.int/reproductivehealth/publications/mhealth/classification-digita
 - Artificial intelligence
 - Machine learning
 - Big Data 
+# Evidence on the effectiveness of mHealth interventions
+- References
+ Core reading   
+
+ Marcolino, M. S. et al. (2018) ‘The Impact of mHealth Interventions: Systematic Review of Systematic Reviews’, JMIR mHealth and uHealth. JMIR Publications, 6(1), p. e23. doi: 10.2196/mhealth.8873. Available at: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5792697/
+
+ Optional reading 
+  Abroms, L. C. et al. (2011) ‘iPhone Apps for Smoking Cessation’, American Journal of Preventive Medicine. NIH Public Access, 40(3), pp. 279–285. doi: 10.1016/j.amepre.2010.10.032. Available at: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395318/
