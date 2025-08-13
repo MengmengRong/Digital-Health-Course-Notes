@@ -21,3 +21,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5792697/
  Optional reading 
   Abroms, L. C. et al. (2011) ‘iPhone Apps for Smoking Cessation’, American Journal of Preventive Medicine. NIH Public Access, 40(3), pp. 279–285. doi: 10.1016/j.amepre.2010.10.032. Available at: 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395318/
+
+# Contact tracing in Guinea using an app
+- Reference 
+Sacks, J. A. et al. (2015) ‘Introduction of mobile health tools to support Ebola surveillance and contact tracing in Guinea’, Global Health Science and Practice. Johns Hopkins University Press, 3(4), pp. 646–659. doi: 10.9745/GHSP-D-15-00207.  Available at: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682588/
