@@ -31,3 +31,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682588/
  Center for Strategic and International Studies (2019) Can Digital Health Help Stop the Next Epidemic. Available at: 
 https://www.csis.org/analysis/can-digital-health-help-stop-next-epidemic
  (Accessed: 28 September 2020).
+# Health Information Systems
+- Reference: 
+  AbouZahr, C. and Boerma, T. (2005) ‘Health information systems: The foundations of public health’, Bulletin of the World Health Organization. World Health Organization, pp. 578–583. doi: /S0042-96862005000800010. Available at: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626318/
