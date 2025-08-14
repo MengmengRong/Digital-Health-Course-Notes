@@ -26,3 +26,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395318/
 - Reference 
 Sacks, J. A. et al. (2015) ‘Introduction of mobile health tools to support Ebola surveillance and contact tracing in Guinea’, Global Health Science and Practice. Johns Hopkins University Press, 3(4), pp. 646–659. doi: 10.9745/GHSP-D-15-00207.  Available at: 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682588/
+# Digital health and epidemic preparedness and response
+- Core reading
+ Center for Strategic and International Studies (2019) Can Digital Health Help Stop the Next Epidemic. Available at: 
+https://www.csis.org/analysis/can-digital-health-help-stop-next-epidemic
+ (Accessed: 28 September 2020).
