@@ -43,3 +43,9 @@ Six essential functions of a high-performing health information system
 - To identify what works
 - To ensure the coordination and equity of health services 
 - To manage resources for the greatest benefit
+
+Reference:
+
+USAID (2016) Six Essential Functions of a High-Performing Health Information System, Measure Evaluation. Available at: 
+https://www.measureevaluation.org/resources/publications/fs-16-173
+   
