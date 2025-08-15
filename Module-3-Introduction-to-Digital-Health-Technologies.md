@@ -35,3 +35,11 @@ https://www.csis.org/analysis/can-digital-health-help-stop-next-epidemic
 - Reference: 
   AbouZahr, C. and Boerma, T. (2005) ‘Health information systems: The foundations of public health’, Bulletin of the World Health Organization. World Health Organization, pp. 578–583. doi: /S0042-96862005000800010. Available at: 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626318/
+# Essential features of a Health Information System
+Six essential functions of a high-performing health information system
+- To monitor trends in health outcomes and services
+- To ensure the data are trustworthy
+- To make decisions quickly and efficiently
+- To identify what works
+- To ensure the coordination and equity of health services 
+- To manage resources for the greatest benefit
